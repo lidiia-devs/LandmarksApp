@@ -32,3 +32,5 @@ struct Hike: Codable, Hashable, Identifiable {
     
 }
 
+
+
